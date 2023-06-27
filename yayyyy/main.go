@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello from boooo!")
+	fmt.Println("Hello from yay!")
 	testcommand.Execute()
 }
